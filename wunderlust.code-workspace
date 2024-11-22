@@ -3,10 +3,6 @@
 		{
 			"name": "wunderlust",
 			"path": "."
-		},
-		{
-			"name": "images",
-			"path": "../../../Downloads/images"
 		}
 	],
 	"settings": {}
